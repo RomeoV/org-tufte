@@ -98,7 +98,7 @@
    "<link rel=\"stylesheet\" href=\"https://zilongli.org/code/tufte.css\" type=\"text/css\" />\n"
    (when org-tufte-htmlize-code
      (format "<link rel=\"stylesheet\" href=\"https://zilongli.org/code/htmlize.css\" type=\"text/css\" />\n"))
-   "<link rel=\"stylesheet\" href=\"https://zilongli.org/code/org.css\" type=\"text/css\" />\n"
+   "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/RomeoV/org-tufte/main/org.css\" type=\"text/css\" />\n"
    org-tufte-katex-template
    "</head>\n"
    "<body id=\"top\">\n"
